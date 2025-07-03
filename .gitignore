@@ -1,7 +1,7 @@
 # Permitir subir el archivo principal de datos
 !prueba2_encabezados.xlsx
 
-# Ignorar todos los demás archivos Excel
+# Archivos de datos (no subir al repositorio)
 *.xlsx
 *.xls
 

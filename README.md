@@ -96,4 +96,4 @@ python generar_reporte.py "prueba2_encabezados.xlsx" 2025-07-02 2025-07-02 "SAN 
 ### Para cuadrilla CU2:
 ```bash
 python generar_reporte.py "prueba2_encabezados.xlsx" 2025-07-02 2025-07-02 "" "" "CU2"
-``` 
+```
