@@ -1,0 +1,65 @@
+# Archivos de datos (no subir al repositorio)
+*.xlsx
+*.xls
+
+# Carpeta de reportes generados
+reportes/
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Archivos de configuración local
+.env
+config_local.py
+
+# Archivos de credenciales
+credentials.json
+token.pickle
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Archivos temporales
+temp_*
+*.tmp
+
+# Archivos de Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Streamlit
+.streamlit/ 
