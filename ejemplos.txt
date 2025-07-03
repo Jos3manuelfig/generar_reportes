@@ -1,0 +1,16 @@
+Solo por distrito (todas las fechas):
+python generar_reporte.py "prueba2_con_encabezados.xlsx" "" "" "SAN MIGUEL"
+
+. Por distrito y fecha específica:
+python generar_reporte.py "prueba2_con_encabezados.xlsx" 2025-07-02 2025-07-02 "SAN MIGUEL"
+
+
+Por distrito y rango de fechas:
+python generar_reporte.py "prueba2_con_encabezados.xlsx" 2025-06-30 2025-07-02 "SAN MIGUEL"
+
+Para San Miguel del 2 de julio:
+python generar_reporte.py "prueba2_con_encabezados.xlsx" 2025-07-02 2025-07-02 "SAN MIGUEL"
+
+
+Para San Isidro de todo el período:
+python generar_reporte.py "prueba2_con_encabezados.xlsx" "" "" "SAN ISIDRO"
